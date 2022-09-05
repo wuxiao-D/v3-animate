@@ -1,0 +1,18 @@
+{
+  "name": "v3-animate",
+  "version": "0.1.0",
+  "description": "基于vue3自定义的大屏组件动画",
+  "main": "v3-animate.js",
+  "scripts": {
+    "serve": "vue-cli-service serve"
+  },
+  "keywords": [
+    "vue3组件动画"
+  ],
+  "author": "dwu",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wuxiao-D/v3-animate.git"
+  }
+}
